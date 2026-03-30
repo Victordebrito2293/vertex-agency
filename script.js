@@ -163,7 +163,7 @@ if (waForm) {
             const textMessage = `Olá, meu nome é ${nome}.\nEmpresa: ${empresa}\nServiço: ${servico}\nMensagem: ${mensagem}`;
             
             // Format phone number (example placeholder number)
-            const phoneNumber = "5511999999999"; 
+            const phoneNumber = "5511992827016"; 
             
             // Generate WhatsApp URL securely
             const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(textMessage)}`;
